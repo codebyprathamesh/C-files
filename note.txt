@@ -1,0 +1,7 @@
+for powers in c, we cannot use a^b form.
+there is an inbuilt function pow(number, pow of number)
+we have to include math.h header file 
+
+//MODULO OPERATOR
+
+modulo operator only work for int data type.
